@@ -75,3 +75,9 @@ simple_shell/
 
 1 directory, 25 files
 ```
+
+to run the program:
+
+```bash
+./hsh
+```
