@@ -81,3 +81,9 @@ to run the program:
 ```bash
 ./hsh
 ```
+or run separated:
+
+```bash
+python3 run.py
+```
+
